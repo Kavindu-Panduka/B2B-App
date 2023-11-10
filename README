@@ -1,0 +1,11 @@
+# B2B App
+
+## Getting Started
+
+### Setup the dev environment
+1. Install node.js
+
+### Setup the server
+Open a terminal and run the following commands:
+1. `npm install`
+2. `npm run develop`
